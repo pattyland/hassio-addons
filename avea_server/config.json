@@ -1,0 +1,16 @@
+{
+  "name": "Avea Server",
+  "version": "0.1",
+  "slug": "avea_server",
+  "description": "Addon to expose Elgato Avea Bulbs via REST API",
+  "url": "https://community.home-assistant.io/t/avea-server-for-elgato-avea-bulb/12618?u=pattyland",
+  "webui": "http://[HOST]:[PORT:3000]/api/bulbs",
+  "startup": "application",
+  "boot": "auto",
+  "host_network": "true",
+  "options": {},
+  "schema": {},
+  "ports": {
+    "3000/tcp": 3000
+  }
+}
