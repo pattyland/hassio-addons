@@ -1,5 +1,5 @@
 {
-  "name": "Hass.IO example add-on repository",
-  "url": "https://home-assistant.io/",
-  "maintainer": "HomeAssistant <info@home-assistant.io>"
+  "name": "pattyland's Hass.io Add-ons",
+  "url": "https://soerenmueller.com/blog/project-type/hassio-addon/",
+  "maintainer": "pattyland <mail@pattyland.de>"
 }
